@@ -8,7 +8,7 @@ const Header = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="text-2xl font-bold text-blue-600">
-            <a href="#">Wanderlust</a>
+            <a href="#">Ghumna</a>
           </div>
           <div className="hidden md:flex items-center space-x-6">
             <a href="#destinations" className="text-gray-600 hover:text-blue-600 transition-colors duration-300">Destinations</a>
